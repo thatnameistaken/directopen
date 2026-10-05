@@ -18,7 +18,7 @@ Link behaviour depends on the device, installed apps, browser and operating syst
 
 ## Getting started
 
-1. Open the in a browser on the device you want to use.
+1. Open the link https://thatnameistaken.github.io/directopen/ in a browser on the device you want to use.
 2. Check the selected platform tab, or choose another manually.
 3. Select a launch variant if one is available, then press **Open**.
 4. Expand **Info** or **Help / compatibility** if a link does not open.
